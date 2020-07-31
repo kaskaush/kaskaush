@@ -10,6 +10,5 @@ As Senior Associate (Web Development) <img src="https://media.giphy.com/media/WU
 
 
 <a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api/?username=kaskaush&show_icons=true&count_private=true&hide=prs,issues,contribs" /></a>
-
-
+<br/>
 <a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaskaush&layout=compact"/></a>
