@@ -4,9 +4,9 @@ I'm a full-stack web developer focused on designing and developing efficient, sc
 
 ### Currently working:
 
-At <a href="https://www.publicissapient.com/">Publicis Sapient</a>
+At <a href="https://www.oracle.com/">Oracle</a>
 
-As Senior Associate (Web Development) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+As Senior Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 
 <a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api/?username=kaskaush&show_icons=true&count_private=true&hide=prs,issues,contribs" /></a>
