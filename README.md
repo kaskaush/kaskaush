@@ -8,7 +8,5 @@ At <a href="https://www.oracle.com/">Oracle</a>
 
 As Senior Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-
-<a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api/?username=kaskaush&show_icons=true&count_private=true&hide=prs,issues,contribs" /></a>
-<br/>
-<a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaskaush&layout=compact"/></a>
+| <a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api/?username=kaskaush&show_icons=true&count_private=true&hide=prs,issues,contribs" /></a> | <a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaskaush&layout=compact"/></a> |
+|--|--|
